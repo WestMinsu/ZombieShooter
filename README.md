@@ -1,7 +1,5 @@
 ## Zombie Shooter Prototype
 
----
-
 ### 🔫 Zombie Shooter Prototype 🎮
 
 This is a zombie shooter game prototype developed using **Unreal Engine 5.4**.
